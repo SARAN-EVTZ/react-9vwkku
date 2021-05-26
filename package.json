@@ -1,0 +1,21 @@
+{
+  "name": "4b7zky--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "@progress/kendo-react-upload": "4.6.0",
+    "@progress/kendo-licensing": "1.1.4",
+    "prop-types": "15.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
